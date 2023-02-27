@@ -16,3 +16,5 @@
 
 #1.5
 # The program will halt if it is in applicative order, it will halt in normal order
+
+#1.6
